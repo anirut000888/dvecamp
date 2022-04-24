@@ -1,0 +1,17 @@
+.header {
+    height: auto;
+    background-color: cyan;
+  }
+  
+  .footer {
+    height: 50px;
+    color: cyan;
+  }
+  
+  img {
+    height: 350px;
+  }
+  
+  .carousel .item {
+    height: 500px;
+  }

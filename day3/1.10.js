@@ -1,11 +1,11 @@
 function draw(n) {
   text = "";
-  let z = n /n;
+
   for (let i = 1; i <= n; i++) {
     for (let j = 1; j <= n; j++) {
-      text += z;
-      z++;
+      text += j * i;
     }
+
     text += "\n";
   }
   console.log(text);
@@ -13,5 +13,3 @@ function draw(n) {
 draw(2);
 draw(3);
 draw(4);
-
-

@@ -1,0 +1,26 @@
+[ 
+	{ 
+        "firstname":"kew", 
+        "lastname": "Tom", 
+        "age": "23",
+        "gender": "male", 
+        "address": {"sub_district" : "Mahasawasd","district" :"Mahasawasd","province" : "BKK"},
+        "contact" : {"mobile" : "0000000001", "e-mail":"158@gmail.com"}
+     }, 
+{ 
+    "firstname":"new", 
+    "lastname": "mom", 
+    "age": "33",
+    "gender": "female", 
+    "address": {"sub_district" : "Bangkrew","district" :"Mahasawasd","province" : "BKK"},
+    "contact" : {"mobile" : "0000000002", "e-mail":"555@gmail.com"}
+     },
+{ 
+    "firstname":"mew", 
+    "lastname": "man", 
+    "age": "30",
+    "gender": "male", 
+    "address": {"sub_district" : "pattaya","district" :"pattaya","province" : "chonbiri"},
+    "contact" : {"mobile" : "0000000012", "e-mail":"4444@gmail.com"}
+     } 
+ ]   
